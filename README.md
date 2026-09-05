@@ -1,4 +1,4 @@
-# MKTour-Documentation
+# Mario Kart Tour Documentation
 
 This is the archive of our current documentation on Mario Kart Tour. This README page also contains links to external archives that one may find relevant to Mario Kart Tour.
 
@@ -9,3 +9,12 @@ This is the archive of our current documentation on Mario Kart Tour. This README
 
 ## Official Website Links
 - [Mario Kart Tour Website](https://web.archive.org/web/20260820175329/https://mariokarttour.com/en-US)
+
+# Current Projects
+- Archive Facebook page
+- Archive X page
+- Create a WiKi on GitHub for information organization
+- Archive All Cups Rankings into spreadsheets
+- Archive all Drivers into spreadsheets
+- Archive all Karts into spreadsheets
+- Archive all Gliders into spreadsheets
