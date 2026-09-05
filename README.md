@@ -15,6 +15,11 @@ This is the archive of our current documentation on Mario Kart Tour. This README
 - Archive X page
 - Create a WiKi on GitHub for information organization
 - Archive All Cups Rankings into spreadsheets
-- Archive all Drivers into spreadsheets
-- Archive all Karts into spreadsheets
-- Archive all Gliders into spreadsheets
+- Archive all Drivers into a spreadsheet
+- Archive all Karts into a spreadsheets
+- Archive all Gliders into a spreadsheet
+- Archive all Error Codes into a spreadsheet
+- Archive all currencies into spreadsheets
+- Archive all patch notes
+- Archive all tours into a spreadsheet
+- Archive all courses into a spreadsheet
