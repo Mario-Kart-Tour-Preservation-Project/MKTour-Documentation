@@ -32,3 +32,4 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 - Archive all patch notes
 - Archive all tours into a spreadsheet
 - Archive all courses into a spreadsheet
+- Archive all special skills into a spreadsheet
