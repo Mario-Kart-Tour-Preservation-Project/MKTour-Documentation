@@ -34,3 +34,4 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 - Archive all tours into a spreadsheet
 - Archive all courses into a spreadsheet
 - Archive all special skills into a spreadsheet
+- Create videos or gain permission to archive videos that show each character, kart, glider, tour, course, etc...
