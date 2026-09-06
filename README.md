@@ -16,6 +16,10 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 ## Official Website Links
 - [Mario Kart Tour Website](https://web.archive.org/web/20260820175329/https://mariokarttour.com/en-US)
 
+## Wikis & Databases
+- [Super Mario Wiki](https://www.mariowiki.com/Mario_Kart_Tour)
+- [Mario Kart Tour Public Database](https://github.com/knobse/Mario-Kart-Tour/wiki)
+
 ## Unreleased Content
 - [The Cutting Room Floor](https://tcrf.net/Mario_Kart_Tour)
 - [HalfHydra's YouTube Channel](https://youtube.com/playlist?list=PLWA7OSQGPNoya05wpsVlYLvikIFqUpiyh&si=PH00LcoG0g02XGBb)
