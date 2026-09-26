@@ -27,6 +27,7 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 # Current Projects
 - Archive Facebook page
 - Archive X page
+- Write the History of the game
 - Create a WiKi on GitHub for information organization
 - Archive All Cups Rankings into spreadsheets
 - Archive all Drivers into a spreadsheet
