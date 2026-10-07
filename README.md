@@ -1,16 +1,42 @@
-# MKTour Documentation: protocol and boot/auth write-ups
+# Mario Kart Tour Documentation
 
-Human-readable documentation of the Mario Kart Tour 4.0.0 client/server protocol, recovered by static
-analysis of a runtime il2cpp dump (no servers were contacted; all from local copies of the game files).
-The machine-usable schemas and the endpoint map live in the Server contribution (`protos/`,
-`data/endpoints_map.csv`).
+This is the archive of our current documentation on Mario Kart Tour. This README page also contains links to external archives that one may find relevant to Mario Kart Tour.
+# Archives
+## Mario Kart Tour Application
+- [Characters](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation/wiki/Characters)
+- [Error Codes](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation/wiki/Error-Codes)
 
-| File | Contents |
-|---|---|
-| `hosts.md` | Server hosts and `SakashoServerConfig` (API host, web-view host, CommonKey, environment 99); Pia/Izumo pvp + NAT-check hosts; what comes from the server vs. the binary. |
-| `auth_flow.md` | The two auth systems and the exact sequence a server must satisfy: Nintendo BaaS signed-JWT login -> session token -> `X-Sks-*` headers; the Play Integrity flow and the `SksV2SecurityVerifyPlayIntegrityJWT -> /v3/daily_bonus/update_daily_bonus` finding. |
-| `boot_sequence.md` | BootScene to main menu: `SakashoDirector.routineInitialize` order, the 25 init subtasks and the endpoints each reaches, and the minimum a server must answer to reach the menu. |
-| `izumo_notes.md` | Notes on `create_client_key` and how the key flows into Pia (`IzumoNetworkSetting_SetClientKey`) for the pvp login. Notes only; open questions listed. |
+# External Archives (Not affiliated)
+Please note that these archives are not related to the Mario Kart Tour Preservation Project. But they have been linked here due to their usefulness and quality in research of Mario Kart Tour.
 
-Addresses in these docs are `libil2cpp.so` virtual addresses (dump rebased to base 0). Findings are marked
-with confidence and `UNKNOWN` where the evidence did not resolve.
+## App Store Links
+- [iOS App Store](http://web.archive.org/web/20260905194555/https://apps.apple.com/us/app/mario-kart-tour/id1293634699)
+- [Google Play Store](http://web.archive.org/web/20260905194911/https://play.google.com/store/apps/details?id=com.nintendo.zaka&hl=en_US)
+
+## Official Website Links
+- [Mario Kart Tour Website](https://web.archive.org/web/20260820175329/https://mariokarttour.com/en-US)
+
+## Wikis & Databases
+- [Super Mario Wiki](https://www.mariowiki.com/Mario_Kart_Tour)
+- [Mario Kart Tour Public Database](https://github.com/knobse/Mario-Kart-Tour/wiki)
+
+## Unreleased Content
+- [The Cutting Room Floor](https://tcrf.net/Mario_Kart_Tour)
+- [HalfHydra's YouTube Channel](https://youtube.com/playlist?list=PLWA7OSQGPNoya05wpsVlYLvikIFqUpiyh&si=PH00LcoG0g02XGBb)
+
+# Current Projects
+- Archive Facebook page
+- Archive X page
+- Write the History of the game
+- Create a WiKi on GitHub for information organization
+- Archive All Cups Rankings into spreadsheets
+- Archive all Drivers into a spreadsheet
+- Archive all Karts into a spreadsheets
+- Archive all Gliders into a spreadsheet
+- Archive all Error Codes into a spreadsheet
+- Archive all currencies into spreadsheets
+- Archive all patch notes
+- Archive all tours into a spreadsheet
+- Archive all courses into a spreadsheet
+- Archive all special skills into a spreadsheet
+- Create videos or gain permission to archive videos that show each character, kart, glider, tour, course, etc...
