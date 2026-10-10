@@ -5,6 +5,7 @@ This is the archive of our current documentation on Mario Kart Tour. This README
 ## Mario Kart Tour Application
 - [Characters](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation/wiki/Characters)
 - [Error Codes](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation/wiki/Error-Codes)
+- [Protocol Documentation](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation/wiki/Protocol-Documentation)
 
 # External Archives (Not affiliated)
 Please note that these archives are not related to the Mario Kart Tour Preservation Project. But they have been linked here due to their usefulness and quality in research of Mario Kart Tour.
