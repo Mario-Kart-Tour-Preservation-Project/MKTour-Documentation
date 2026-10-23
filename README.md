@@ -15,7 +15,8 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 - [Google Play Store](http://web.archive.org/web/20260905194911/https://play.google.com/store/apps/details?id=com.nintendo.zaka&hl=en_US)
 
 ## Official Website Links
-- [Mario Kart Tour Website](https://web.archive.org/web/20260820175329/https://mariokarttour.com/en-US)
+- [Mario Kart Tour Website](https://web.archive.org/web/https://mariokarttour.com/en-US)
+- [All-Cup Ranking](https://web.archive.org/web/https://mariokarttour.com/en-US/ranking/allcup/backnumbers)
 
 ## Wikis & Databases
 - [Super Mario Wiki](https://www.mariowiki.com/Mario_Kart_Tour)
